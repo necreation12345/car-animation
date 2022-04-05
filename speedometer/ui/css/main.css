@@ -1,0 +1,21 @@
+*{
+	height: 0px;
+}
+body{
+	height: 80%;
+	width: 80%;
+}
+
+
+#display {
+	width: 80%;
+	height: 80%;
+	
+	
+}
+.img{
+	position:absolute ;
+	width: 200px;
+	height: 200px;
+	right: 65%;
+}
